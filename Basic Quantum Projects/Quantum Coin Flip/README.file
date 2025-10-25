@@ -91,14 +91,6 @@ True quantum randomness has practical uses in:
 - **Gaming**: Provably fair random number generation
 - **Scientific Research**: Eliminating bias in experimental design
 
-## 📈 Next Steps
-
-- [ ] Experiment with different numbers of measurements (shots)
-- [ ] Try multiple qubits for multi-sided dice
-- [ ] Explore other quantum gates (X, Y, Z, RX, RY, RZ)
-- [ ] Build quantum entanglement demo (Bell states)
-- [ ] Apply to Monte Carlo portfolio optimization
-
 ## 📚 Resources
 
 - [Qiskit Documentation](https://qiskit.org/documentation/)
