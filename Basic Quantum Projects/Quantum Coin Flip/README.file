@@ -107,13 +107,4 @@ True quantum randomness has practical uses in:
 - [Qiskit Textbook - Single Qubit Gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html)
 
 
-## 📸 ADDITIONAL FILES TO INCLUDE
 
-Your project should have these files:
-```
-Quantum_Coin_Flip/
-├── quantum_coin_flip.py          ← Your code
-├── README.md                      ← Documentation (create this)
-├── quantum_coin.png               ← Your histogram (already generated!)
-└── requirements.txt               ← Dependencies (create this)
-```
